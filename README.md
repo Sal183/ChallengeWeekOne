@@ -2,7 +2,7 @@
 Horiseon website updated.<br>
 Cleaned up and made it easier to read HTML, as well as organized and removed uneeded commands in CSS. 
 
-![Horiseon Website](./Website Screenshot.PNG)
+![Horiseon Website](https://github.com/Sal183/ChallengeWeekOne/blob/master/Website%20Screenshot.PNG)
  
 
 Site Link:
